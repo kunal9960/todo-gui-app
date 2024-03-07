@@ -39,6 +39,7 @@ Whether you prefer a graphical user interface (GUI) or the simplicity of a comma
 - Python 3.6 or later
 - pip (Python package installer)
 - [PySimpleGUI](https://pysimplegui.readthedocs.io/en/latest/) for providing an easy-to-use Python GUI framework.
+- For different themes visit https://www.geeksforgeeks.org/themes-in-pysimplegui/
 
 ### Installation
 To run the Todo GUI App locally, you'll need to have PythonSimpleGUi `(4.60.1)` installed. If you haven't already, you can install it via pip:
