@@ -1,4 +1,6 @@
-# Todo App 📝 ![Project Status: Active](https://www.repostatus.org/badges/latest/inactive.svg)
+# Todo App 📝 
+![Project Status: Active](https://www.repostatus.org/badges/latest/inactive.svg)
+[![Made With Love](https://img.shields.io/badge/Made%20With-Love-orange.svg)](https://github.com/kunal9960)
 
 Welcome to the Todo App, a task management app designed to help you stay organized. 
 Whether you prefer a graphical user interface (GUI) or the simplicity of a command-line interface (CLI), this app has you covered.
